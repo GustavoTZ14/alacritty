@@ -15,7 +15,8 @@ dynamic_padding = true
 
 [font]
 
-normal.family = "FiraCode Nerd Font"
+#normal.family = "FiraCode Nerd Font"
+normal.family = "JetBrainsMono Nerd Font"
 #bold.family = "FiraCode Nerd Font"
 #italic.family = "FireCode Nerd Font"
 #bold_italic.family = "FireCode Nerd Font"
