@@ -1,9 +1,9 @@
 
 [window]
 
-opacity = 1.0
+opacity = 0.8
 
-blur = false
+blur = true
 
 padding.x = 3
 padding.y = 3
